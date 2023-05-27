@@ -45,3 +45,9 @@ top: 30px;
     line-height: 36px;
     color: #6C6B6B;
 }
+.hero-content img {
+    width: 554px;
+    height: 346px;
+    left: 700px;
+    top: 150px;
+}

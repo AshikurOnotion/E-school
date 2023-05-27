@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 
 }
 
@@ -12,7 +13,7 @@ left: 212px;
 top: 30px;
 }
 .navbar{
-    margin-top: 20px;
+    padding-top:20px;
 }
 .nav-item{
     margin: 0px 10px;
@@ -29,7 +30,9 @@ top: 30px;
 }
 
 .hero-content{
-    margin-top: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }
 .hero-content h1{
     font-size: 48px;
@@ -50,4 +53,28 @@ top: 30px;
     height: 346px;
     left: 700px;
     top: 150px;
+}
+
+.box1 img{
+    width: 70px;
+}
+
+.box1{
+    gap: 20px;
+}
+
+.col-md-2{
+    width: 23%;
+
+}
+.box2{
+    padding: 50px 0;
+}
+
+.margin1{
+    margin-top: 50px;
+}
+
+.rounded{
+border-radius: 5%;
 }

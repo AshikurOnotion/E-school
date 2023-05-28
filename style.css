@@ -66,6 +66,7 @@ top: 30px;
 .col-md-2{
     width: 23%;
 
+
 }
 .box2{
     padding: 50px 0;
@@ -77,4 +78,16 @@ top: 30px;
 
 .rounded{
 border-radius: 5%;
+}
+
+.half-width img{
+    width: 10%;
+}
+
+.half-width{
+   text-align: center;
+}
+
+.courses{
+    border: none;
 }

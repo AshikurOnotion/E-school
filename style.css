@@ -88,6 +88,13 @@ border-radius: 5%;
    text-align: center;
 }
 
-.courses{
+.card{
     border: none;
+    margin-top: 20px;
+   
+}
+
+.card-footer{
+    border: none;
+    padding-top: 20px;;
 }
